@@ -20,4 +20,4 @@ networks:
     name: mysql_network
 volumes:
   mysql-data:
-    drivers: local
+    driver: local
