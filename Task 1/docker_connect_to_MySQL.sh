@@ -1,0 +1,1 @@
+docker run --name mysql_connect -it --network mysql_network --rm mysql mysql -hdb -uroot -ppwd
