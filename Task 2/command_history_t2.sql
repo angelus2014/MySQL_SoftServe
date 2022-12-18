@@ -10,6 +10,6 @@ CREATE TABLE user_message (
 	user_id INT,
 	createdAt TIMESTAMP,
 	message VARCHAR(1),
-    last_login TIMESTAMP,
+	last_login TIMESTAMP,
 	updatedAt TIMESTAMP
 );
